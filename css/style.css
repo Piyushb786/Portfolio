@@ -9409,7 +9409,7 @@ textarea.form-control {
   background-size: contain;
   padding: 400px; }
 
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .contact-section .img {
       height: auto; } 
       padding: 10px; }
@@ -9419,7 +9419,7 @@ textarea.form-control {
 
 .contact-section .contact-form {
   width: 100%; }
-  @media (max-width: 768px) {
+  @media (max-width: 600px) {
     .contact-section .contact-form .btn-primary {
       display: block;
       width: 100%; } }
