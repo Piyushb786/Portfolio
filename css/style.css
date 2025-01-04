@@ -3112,7 +3112,7 @@ input[type="button"].btn-block {
 .custom-select {
   display: inline-block;
   width: 100%;
-  height: calc(1.5em + 0.75rem + 2px);
+  height: auto;
   padding: 0.375rem 1.75rem 0.375rem 0.75rem;
   font-size: 1rem;
   font-weight: 400;
@@ -3145,14 +3145,14 @@ input[type="button"].btn-block {
     display: none; }
 
 .custom-select-sm {
-  height: calc(1.5em + 0.5rem + 2px);
+  height: auto;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   padding-left: 0.5rem;
   font-size: 0.875rem; }
 
 .custom-select-lg {
-  height: calc(1.5em + 1rem + 2px);
+  height: auto;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   padding-left: 1rem;
@@ -3169,7 +3169,7 @@ input[type="button"].btn-block {
   position: relative;
   z-index: 2;
   width: 100%;
-  height: calc(1.5em + 0.75rem + 2px);
+  height: auto;
   margin: 0;
   opacity: 0; }
   .custom-file-input:focus ~ .custom-file-label {
@@ -3189,7 +3189,7 @@ input[type="button"].btn-block {
   right: 0;
   left: 0;
   z-index: 1;
-  height: calc(1.5em + 0.75rem + 2px);
+  height: auto;
   padding: 0.375rem 0.75rem;
   font-weight: 400;
   line-height: 1.5;
@@ -3204,7 +3204,7 @@ input[type="button"].btn-block {
     bottom: 0;
     z-index: 3;
     display: block;
-    height: calc(1.5em + 0.75rem);
+    height: auto;
     padding: 0.375rem 0.75rem;
     line-height: 1.5;
     color: #495057;
@@ -3215,7 +3215,7 @@ input[type="button"].btn-block {
 
 .custom-range {
   width: 100%;
-  height: calc(1rem + 0.4rem);
+  height: auto;
   padding: 0;
   background-color: transparent;
   -webkit-appearance: none;
