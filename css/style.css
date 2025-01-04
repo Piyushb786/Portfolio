@@ -9411,6 +9411,7 @@ textarea.form-control {
 
   @media (max-width: 991.98px) {
     .contact-section .img {
+      background-position: right;
       height: auto; } 
       padding: 10px; }
 
