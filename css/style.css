@@ -9409,9 +9409,9 @@ textarea.form-control {
   background-size: contain;
   padding: 400px; }
 
-  @media (max-width: 991.98px) {
+  @media (max-width: 768px) {
     .contact-section .img {
-      background-position: right;
+      background-position: left;
       height: auto; } 
       padding: 10px; }
 
